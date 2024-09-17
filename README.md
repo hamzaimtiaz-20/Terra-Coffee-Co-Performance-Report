@@ -1,5 +1,9 @@
 # Terra-Coffee-Co-Performance-and-Marketing-Insights
 ### This project aims to optimize Terra Coffee Co.’s product offerings, marketing strategies, and customer retention efforts by leveraging sales data insights to increase revenue across key markets, improve customer satisfaction, and drive larger purchases through targeted campaigns and personalized offers.
+
+Terra Coffee Co. is a fictional company that sells packaged coffee bean products internationally.
+
+## Data Source
 The dataset consisted of a single .csv file containing three tables:
 - The orders table held order details, including order ID, date, and basic customer information like name and email.
 - The customer table stored customer data, such as customer ID, name, registration date, and contact details.
