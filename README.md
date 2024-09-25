@@ -45,7 +45,7 @@ Several columns in the orders table, including customer name, coffee type, size,
 - Ireland shows a slightly stronger response from loyalty members, suggesting a potential growth opportunity in this market.
 
 ## Recommendations
-- Tailor Marketing and Product Offerings by Region: Develop region-specific campaigns (e.g., special promotions, influencer marketing, localized ads) that highlight the most popular roast in each country.
+- Tailor Marketing and Product Offerings by Region: Develop region-specific campaigns (e.g., special promotions, influencer marketing, localized ads) that highlight the most popular roast in each country (light roast for the U.S. market, dark roast for the Irish market, medium roast for the U.K. market).
 - Promote Larger Package Sizes to Boost Sales: Expand the range of larger package options and make them more prominent in both online and in-store displays. Highlight savings or value-added offers for larger sizes to push customers toward higher-volume purchases.
 - Strengthen Loyalty Program: Strengthen the loyalty program to increase membership revenue and boost sales by introducing exclusive benefits for members, such as:
   - Early access to new roasts or limited editions.
